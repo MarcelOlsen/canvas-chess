@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts,json",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "tsc ./src/index.ts -outDir dist && babel src && webpack && serve ./public -n"
+}
