@@ -2,6 +2,8 @@
 
 This project is a simple interactive chess board built using TypeScript, and the `chess.js` library. It uses HTML5 Canvas for rendering the chessboard and pieces.
 
+It was built because I wanted to learn about the html canvas and this was the only fun and easy way I could think of. Will probably implement the TODO's some day, but the purpose of the project has been satisfied, so heavily depends on free time.
+
 ## Prerequisites
 
 - Node.js (>=14.x)
